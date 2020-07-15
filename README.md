@@ -1,2 +1,2 @@
 # MobileOperatorAlpha
-Файла MobileOperatorAppDB е направен с mySQLworkbench
+Файлът MobileOperatorAppDB е направен с mySQLworkbench
